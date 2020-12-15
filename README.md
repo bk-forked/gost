@@ -6,6 +6,6 @@
 
 #### 2020.12.14
 * Forked from [ginuerzh/gost](https://github.com/ginuerzh/gost)
-* Upload the [Releases](https://github.com/bttb520/gost/releases)
+* Upload the [Releases](https://github.com/bk-forked/gost/releases)
 * Rename README.md to README_BAK.md
 * Create README.md
